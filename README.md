@@ -7,7 +7,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 3. ✅ - Writing React Components
 4. ✅ - Handling State in a React Project
 5. ✅ - React Server Components
-6. ❌ - Asynchronous React in Next.js
+6. ✅ - Asynchronous React in Next.js
 
 ## Credits
 
